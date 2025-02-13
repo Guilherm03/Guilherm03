@@ -3,12 +3,12 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Sistemas**.
-📚 Atualmente aprendendo **JavaScript, HTML, CSS e Banco de Dados**.  
+🎓 Estudante de **Desenvolvimento de Sistemas**.<br>
+📚 Atualmente aprendendo **JavaScript, HTML, CSS e Banco de Dados**.<br>
 🎮 Apaixonado por tecnologia, programação e jogos.  
 
 ## 🛠️ Tecnologias que uso
-💻 **Linguagens:** JavaScript, HTML, CSS
+💻 **Linguagens:** JavaScript, HTML, CSS<br>
 🛠 **Ferramentas:** Git, VS Code, Linux  
 
 ## 📊 Estatísticas do GitHub
