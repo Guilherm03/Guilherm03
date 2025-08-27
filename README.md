@@ -1,7 +1,6 @@
 
 # 👋 Olá! Bem-vindo ao meu perfil
 
----
 ## 🚀 Sobre mim
 
 🎓 Estudante de **Desenvolvimento de Sistemas**.<br>
@@ -20,7 +19,6 @@
 ## 🔗 Contatos
 📧 Email: guilhermelinsal@gmail.com
 
----
 🚀 Sempre explorando novas tecnologias e desenvolvendo projetos legais! 😃
 
 ---
