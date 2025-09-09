@@ -16,7 +16,7 @@
 ![Guilherm03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm03&theme=gotham&show_icons=true&hide_border=false&layout=compact)<hr>
 
 
-## 🔗 Contatos
+## 🔗 Contato
 📧 Email: guilhermelinsal@gmail.com
 
 🚀 Sempre explorando novas tecnologias e desenvolvendo projetos legais! 😃
