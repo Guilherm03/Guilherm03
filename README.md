@@ -35,12 +35,17 @@
 
 ## 📊 Estatísticas do GitHub
 
-![](https://nirzak-streak-stats.vercel.app/?user=Guilherm03&theme=dark&hide_border=false)<br>
-![Guilherm03's Stats](https://github-readme-stats.vercel.app/api?username=Guilherm03&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br>
-![Guilherm03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm03&theme=gotham&show_icons=true&hide_border=false&layout=compact)<hr>
+<div align="center">
+  
+  ![Guilherm03's Stats](https://github-readme-stats.vercel.app/api?username=Guilherm03&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+  ![Guilherm03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherm03&theme=gotham&show_icons=true&hide_border=false&layout=compact)<hr>
+  
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherm03/Guilherm03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherm03/Guilherm03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherm03/Guilherm03/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherm03/Guilherm03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherm03/Guilherm03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherm03/Guilherm03/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
